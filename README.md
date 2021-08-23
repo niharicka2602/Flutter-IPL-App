@@ -22,7 +22,6 @@ This Flutter Application predicts the score of the IPL Team based on the followi
  --> files to be added inside */var/www/cgi-bin* are **app.py, Batting-score-LassoReg-model.pkl, main.dart**  <br>
  --> make them executable (only python and pkl file)  <br>
  --> do not forget to import all the required libraries to execute the python code **(cgi, subprocess, pickle, numpy)**
- 
  <br><br>
  
  To check the errors make use of logs file<br>
