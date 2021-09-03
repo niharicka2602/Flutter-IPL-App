@@ -1,4 +1,4 @@
-# Flutter-App
+# IPL Score Predictor App
 
 <br>
 This Flutter Application predicts the score of the IPL Team based on the following input information:<br>
